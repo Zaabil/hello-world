@@ -1,5 +1,1 @@
-# hello-world
-Just another repository
-Testing out github.
-
-commiting to master
+Making a commit to the master branch.
